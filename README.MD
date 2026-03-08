@@ -36,8 +36,8 @@ brew install openjdk@11
 ### 1. Clone o repositório e entre na pasta
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-da-pasta>
+git clone <https://github.com/Lacetm/DesafioHotmart.git>
+cd <DesafioHotmart>
 ```
 
 ### 2. Crie um ambiente virtual (recomendado)
